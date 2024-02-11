@@ -1,0 +1,7 @@
+path: E:\Trained  Datasets\Plastic bottles\train
+train: ../train/images
+val: ../valid/images
+
+
+names:
+  0: plasticbottle
